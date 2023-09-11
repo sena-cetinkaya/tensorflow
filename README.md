@@ -1,5 +1,5 @@
 # Tensorflow Library
-This library contains an example about the "Tensorflow" library in Python Programming Language. The libraries used in the program are listed below. 
+This repo contains an example about the "Tensorflow" library in Python Programming Language. The libraries used in the program are listed below. 
 ``` 
 import tensorflow as tf
 import numpy as np
@@ -13,7 +13,7 @@ TensorFlow is a free and open source software library for machine learning. Tens
 - It runs on CPU and GPU.
 ------------
 # Tensorflow Kütüphanesi
-Bu kütüphane Python Programlama Dili'ndeki "Tensorflow" kütüphanesi hakkında bir örnek içermektedir. Program içerisinde kullanılan kütüphaneler aşağıda yer almaktadır.
+Bu repo Python Programlama Dili'ndeki "Tensorflow" kütüphanesi hakkında bir örnek içermektedir. Program içerisinde kullanılan kütüphaneler aşağıda yer almaktadır.
 ``` 
 import tensorflow as tf
 import numpy as np
